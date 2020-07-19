@@ -10,5 +10,6 @@
         <page name='deinit'/>
         <page name='Array'/>
         <page name='fallthrough'/>
+        <page name='ErrorHandling'/>
     </pages>
 </playground>
