@@ -11,5 +11,6 @@
         <page name='Array'/>
         <page name='fallthrough'/>
         <page name='ErrorHandling'/>
+        <page name='WhereClause'/>
     </pages>
 </playground>
