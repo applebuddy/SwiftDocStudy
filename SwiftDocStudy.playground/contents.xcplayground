@@ -12,5 +12,6 @@
         <page name='fallthrough'/>
         <page name='ErrorHandling'/>
         <page name='WhereClause'/>
+        <page name='Strideable'/>
     </pages>
 </playground>
