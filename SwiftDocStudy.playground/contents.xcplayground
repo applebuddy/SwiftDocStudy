@@ -13,5 +13,6 @@
         <page name='ErrorHandling'/>
         <page name='WhereClause'/>
         <page name='Strideable'/>
+        <page name='StringLiteral'/>
     </pages>
 </playground>
