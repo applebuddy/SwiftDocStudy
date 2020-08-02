@@ -14,5 +14,6 @@
         <page name='WhereClause'/>
         <page name='Strideable'/>
         <page name='StringLiteral'/>
+        <page name='Range'/>
     </pages>
 </playground>
