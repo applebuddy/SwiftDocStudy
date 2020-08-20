@@ -15,5 +15,6 @@
         <page name='Strideable'/>
         <page name='StringLiteral'/>
         <page name='Range'/>
+        <page name='imageResizing'/>
     </pages>
 </playground>
