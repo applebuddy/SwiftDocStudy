@@ -22,5 +22,6 @@
         <page name='DateExample'/>
         <page name='HeapExample'/>
         <page name='defer'/>
+        <page name='assert'/>
     </pages>
 </playground>
