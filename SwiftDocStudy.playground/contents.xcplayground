@@ -16,5 +16,11 @@
         <page name='StringLiteral'/>
         <page name='Range'/>
         <page name='imageResizing'/>
+        <page name='ClosureExample'/>
+        <page name='K-th_Number'/>
+        <page name='removeFirstLast'/>
+        <page name='DateExample'/>
+        <page name='HeapExample'/>
+        <page name='defer'/>
     </pages>
 </playground>
