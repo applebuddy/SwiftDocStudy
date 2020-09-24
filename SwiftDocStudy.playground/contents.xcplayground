@@ -23,5 +23,6 @@
         <page name='HeapExample'/>
         <page name='defer'/>
         <page name='assert'/>
+        <page name='CaseIterable'/>
     </pages>
 </playground>
